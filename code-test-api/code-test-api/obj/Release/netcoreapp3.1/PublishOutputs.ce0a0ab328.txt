@@ -1,0 +1,7 @@
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\code-test-api.exe
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\code-test-api.dll
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\code-test-api.deps.json
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\code-test-api.runtimeconfig.json
+C:\practiseTest\code-test-api\code-test-api\obj\Release\netcoreapp3.1\PubTmp\Out\code-test-api.pdb
